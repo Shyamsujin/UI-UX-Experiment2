@@ -1,6 +1,6 @@
 # UI-UX-Experiment2
 
-## Aim:  To Design a Basic Mobile and Web Layout for an Existing Case Study - DroneX
+## Aim:  To Design a Basic Mobile and Web Layout for an Existing Case Study - FastX Delivery System
 
 ## Algorithm:
 
